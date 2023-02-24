@@ -7,6 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2018-en/blob/main/color-actionbar-statusbar/color-actionbar-statusbar.md
+url: https://harrix.dev/en/blog/2018/color-actionbar-statusbar/
 ---
 
 # Change the color of ActionBar and StatusBar in the Android app
