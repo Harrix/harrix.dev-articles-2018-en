@@ -111,3 +111,5 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ![Running application](img\result.png)
+
+_Figure 1: Running application_
