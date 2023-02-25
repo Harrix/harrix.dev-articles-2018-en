@@ -13,6 +13,8 @@ lang: en
 
 # Change the color of ActionBar and StatusBar in the Android app
 
+![Featured image](featured-image.svg)
+
 An article on how to dynamically change the color of the `StatusBar` and `ActionBar` elements.
 
 The color of the status bar can be changed by code:
