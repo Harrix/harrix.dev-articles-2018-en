@@ -110,6 +110,6 @@ public class MainActivity extends AppCompatActivity {
 </LinearLayout>
 ```
 
-![Running application](img\result.png)
+![Running application](img/result.png)
 
 _Figure 1: Running application_
