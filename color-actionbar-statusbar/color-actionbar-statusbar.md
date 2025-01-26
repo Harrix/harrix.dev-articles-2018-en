@@ -1,7 +1,12 @@
 ---
 date: 2018-11-30
-categories: [it, programming]
-tags: [Android Studio, Android, Java]
+categories:
+  - it
+  - programming
+tags:
+  - Android Studio
+  - Android
+  - Java
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
